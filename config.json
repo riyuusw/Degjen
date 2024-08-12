@@ -1,0 +1,10 @@
+{
+    "interval_click": 10,
+    "countdown": 1000,
+    "random_click": {
+        "min": 100,
+        "max": 200
+    },
+    "auto_upgrade": false,
+    "auto_buy_box": false
+}
